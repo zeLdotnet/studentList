@@ -1,0 +1,11 @@
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\bin\Debug\netcoreapp2.1\Lab9_studentList.deps.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\bin\Debug\netcoreapp2.1\Lab9_studentList.runtimeconfig.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\bin\Debug\netcoreapp2.1\Lab9_studentList.runtimeconfig.dev.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\bin\Debug\netcoreapp2.1\Lab9_studentList.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\bin\Debug\netcoreapp2.1\Lab9_studentList.pdb
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\obj\Debug\netcoreapp2.1\Lab9_studentList.csprojAssemblyReference.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\obj\Debug\netcoreapp2.1\Lab9_studentList.csproj.CoreCompileInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\obj\Debug\netcoreapp2.1\Lab9_studentList.AssemblyInfoInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\obj\Debug\netcoreapp2.1\Lab9_studentList.AssemblyInfo.cs
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\obj\Debug\netcoreapp2.1\Lab9_studentList.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab9_studentList\Lab9_studentList\obj\Debug\netcoreapp2.1\Lab9_studentList.pdb
